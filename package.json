@@ -1,0 +1,9 @@
+{
+  "name": "js_scraping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio-httpcli": "^0.7.0"
+  }
+}
